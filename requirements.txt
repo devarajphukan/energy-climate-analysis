@@ -8,7 +8,7 @@ scipy
 seaborn >= 0.11.2
 sklearn
 pystan == 2.19.1.1
-fbprophet == 0.7.1
+fbprophet
 
 pytest >= 5.2
 flake8 >= 4.0.1
