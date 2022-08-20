@@ -1,0 +1,5 @@
+.venv
+.mypy_cache
+.DS_Store
+energy-climate-analysis/data/.DS_Store
+energy-climate-analysis/.DS_Store
